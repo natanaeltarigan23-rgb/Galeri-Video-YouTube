@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" width="800" height="450">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#dce5d5"/><stop offset="1" stop-color="#bacfb5"/></linearGradient><linearGradient id="landscape" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#eed1ba"/><stop offset="1" stop-color="#8ca7a6"/></linearGradient></defs>
+<rect width="800" height="450" fill="url(#bg)"/>
+<circle cx="785" cy="12" r="133" fill="#6d8970" opacity=".09"/>
+<circle cx="418" cy="454" r="129" fill="#6d8970" opacity=".09"/>
+<rect x="43" y="59" width="181" height="32" rx="16" fill="#6d8970" opacity=".2"/>
+<text x="59" y="80" font-size="14" font-family="Arial,Helvetica,sans-serif" font-weight="bold" letter-spacing="2" fill="#2a4434">PRODUKTIVITAS</text>
+<text x="42" y="194" font-size="53" font-family="Arial,Helvetica,sans-serif" font-weight="800" letter-spacing="-2" fill="#2a4434">TETAP</text><text x="42" y="267" font-size="53" font-family="Arial,Helvetica,sans-serif" font-weight="800" letter-spacing="-2" fill="#2a4434">FOKUS</text>
+<rect x="42" y="365" width="54" height="5" rx="2.5" fill="#6d8970"/>
+<text x="42" y="405" font-size="15" font-family="Arial,Helvetica,sans-serif" letter-spacing="2" fill="#6d8970">TONTON</text>
+
+<g transform="translate(483 63)">
+  <rect x="-13" y="38" width="290" height="285" rx="18" transform="rotate(-7 132 180)" fill="#c9d2b8"/>
+  <rect x="0" y="0" width="260" height="296" rx="19" fill="#fbf7ee"/>
+  <text x="26" y="41" font-size="14" fill="#54725a" font-family="Arial" font-weight="bold">FOCUS TIMER</text>
+  <circle cx="130" cy="152" r="86" fill="#ecf0e6" stroke="#5e886b" stroke-width="9" stroke-dasharray="450 90" transform="rotate(-90 130 152)"/>
+  <circle cx="130" cy="152" r="66" fill="#fbf7ee"/>
+  <text x="130" y="153" text-anchor="middle" font-size="46" font-family="Arial" font-weight="bold" fill="#2d4a37">25:00</text>
+  <text x="130" y="178" text-anchor="middle" font-size="14" font-family="Arial" fill="#668270">Belajar dulu</text>
+  <rect x="53" y="257" width="154" height="19" rx="9" fill="#a9c5a4"/>
+</g>
+
+</svg>
